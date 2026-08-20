@@ -1,0 +1,7 @@
+node_modules
+dist
+coverage
+package-lock.json
+
+# Approved artifacts are owned by the design process, not by the code formatter.
+docs
